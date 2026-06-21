@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Bayesian Interrupted Time-Series Analysis of Sri Lankan Egg Prices"
+message: "If you use this code, please cite this repository."
+type: software
+authors:
+  - family-names: "Thilan"
+    given-names: "A.W.L.P."
+affiliation: "University of Ruhuna"
+year: 2026
+license: MIT
+repository-code: "https://github.com/USERNAME/bayesian-egg-price-its"
+doi: "To be added after Zenodo archiving"
